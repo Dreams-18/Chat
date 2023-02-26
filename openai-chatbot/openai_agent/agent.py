@@ -82,7 +82,7 @@ The AI's name is {AGENT_NAME} and is talking with {USERNAME}.
         engine: str = "text-davinci-003",
         start_template: str = None,
         msg_template: str = None,
-        api_key: str = None,
+        api_key: str = "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",
         max_response_length: int = 150,
         temperature: float = 0.8,
         top_p: float = 1,
